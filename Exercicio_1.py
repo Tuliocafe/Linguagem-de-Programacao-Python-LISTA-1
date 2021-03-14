@@ -1,4 +1,4 @@
-
+#tests
 import random
 
 stop = 0
